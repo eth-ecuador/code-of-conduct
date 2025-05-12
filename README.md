@@ -48,11 +48,13 @@ All proposals will be reviewed transparently and collectively.
 ---
 
 ## 📌 Repository Structure
+```bash
 code-of-conduct/
 ├── CODE_OF_CONDUCT.md        # English version
 ├── CODE_OF_CONDUCT.es.md     # Spanish version
 ├── LICENSE                   # License file (MIT or CC-BY-4.0)
 └── README.md                 # Main repository overview and contribution guide
+```
 
 ---
 
