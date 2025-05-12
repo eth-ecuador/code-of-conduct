@@ -1,97 +1,122 @@
----
-title: "Código de Conducta – ETH Ecuador"
-version: "1.1"
-date: "2025-05-12"
----
+# ETH Ecuador – Código de Conducta
 
-<p align="center">
-  <img src="https://ethecuador.org/assets/logo.png" alt="ETH Ecuador Logo" height="60">
-</p>
+## 🎯 Misión
 
-## 1. Propósito  
-Este Código de Conducta garantiza que nuestra comunidad de ETH Ecuador sea inclusiva, segura y colaborativa. Define pautas claras para la interacción, promueve el respeto mutuo y establece canales de mejora continua.
+Fomentar una comunidad de Ethereum inclusiva, diversa y respetuosa en Ecuador y para comunidades hispanohablantes, promoviendo la colaboración activa, el aprendizaje libre y el crecimiento colectivo.
 
----
+## 💫 Valores
 
-## 2. Ámbito de Aplicación  
-Se aplica a todas las actividades de ETH Ecuador, incluyendo:  
-- Repositorios GitHub (`ETH-Ecuador/code-of-conduct`)  
-- Canales de comunicación (Discord, Twitter, Telegram)  
-- Foros y listas de correo  
-- Eventos presenciales y virtuales  
+ETH Ecuador se compromete a ser una comunidad:
 
----
+- Educativa y enfocada en el aprendizaje abierto
+- Inclusiva y respetuosa con todas las personas y contextos
+- Transparente en la toma de decisiones y en la moderación
+- Colaborativa y liderada por la comunidad
+- Comprometida con los valores de Ethereum: descentralización, bienes públicos y desarrollo open-source
+- No enfocada en actividades financieras, especulativas o de promoción
 
-## 3. Pacto Comunitario  
-Los miembros y colaboradores de ETH Ecuador nos comprometemos a:  
-- Mantener un entorno libre de acoso y discriminación.  
-- Fomentar la participación constructiva y empática.  
-- Respetar las distintas perspectivas, niveles de experiencia y orígenes.  
+## 🚫 Lo que no somos
+
+ETH Ecuador **no es**:
+
+- La Fundación Ethereum
+- Una plataforma para promover inversiones o productos financieros
+- Un espacio para promocionar agendas personales, comerciales o políticas
+- Un proveedor de asesoría financiera o legal
+- Una autoridad centralizada o sistema de gobernanza
+- Una DAO basada en tokens o monetizada (por ahora)
 
 ---
 
-## 4. Nuestros Valores  
-- **Inclusión:** Todas las personas son bienvenidas, sin importar raza, género, orientación, religión o experiencia.  
-- **Respeto:** Tratamos con cortesía, evitando lenguaje insultante o despectivo.  
-- **Colaboración:** Compartimos conocimientos y ayudamos proactivamente.  
-- **Transparencia:** Comunicamos decisiones y cambios de forma abierta.  
-- **Responsabilidad:** Reconocemos el impacto de nuestras palabras y actos.  
+## ✍️ Compromiso
+
+ETH Ecuador es un espacio de participación abierta. Damos la bienvenida a todas las personas que deseen contribuir de manera constructiva, respetuosa y amigable. Estamos comprometidos con brindar una experiencia libre de acoso para todos, sin importar edad, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia física, raza, religión u otra dimensión de diversidad.
 
 ---
 
-## 5. Comportamientos Esperados  
-- Usar lenguaje inclusivo y respetuoso.  
-- Aceptar y ofrecer críticas constructivas con empatía.  
-- Escuchar activamente antes de responder.  
-- Invitar y amplificar voces nuevas en la comunidad.  
+## 🧭 Alcance
+
+Este Código de Conducta aplica en **todos los espacios de ETH Ecuador**, tanto en línea como presenciales, incluyendo (pero no limitado a):
+
+- Repositorios de GitHub
+- Servidor de Discord y otras plataformas de chat
+- Eventos, meetups, talleres y conferencias
+- Llamadas comunitarias o grabaciones
+- Redes sociales (ej. X, Telegram, Lens)
 
 ---
 
-## 6. Comportamientos No Aceptables  
-- Acoso, hostigamiento o amenazas de cualquier tipo.  
-- Discriminación o comentarios despectivos por características personales.  
-- Spam, autopromoción no solicitada o enlaces irrelevantes.  
-- Publicación de información privada de terceros sin permiso.  
-- Impersonación de personas, moderadores u organizaciones.  
-- Promoción de inversiones, tokens o proyectos con fines de lucro.  
-- Ignorar o desacatar advertencias de moderación.  
+## ✅ Comportamientos aceptables
+
+Ejemplos de comportamientos que contribuyen a un ambiente positivo:
+
+- Usar lenguaje acogedor e inclusivo
+- Ser respetuoso con perspectivas y experiencias distintas
+- Dar o recibir retroalimentación constructiva con empatía
+- Actuar con calma y profesionalismo ante desacuerdos
+- Apoyar y amplificar voces poco representadas
+- Respetar límites, consentimiento y contexto
+- Seguir las reglas de la comunidad y a los moderadores
 
 ---
 
-## 7. Reporte de Incidencias  
-Si presencias o sufres una infracción, elige una de estas vías:  
-1. **Formulario anónimo (off-chain):**  
-   https://forms.ethecuador.org/anónimo-coc  
-2. **Mensaje directo a moderadores:** Discord/Telegram.  
-3. **Email confidencial:** conduct@ethecuador.org  
+## ❌ Comportamientos inaceptables
 
-Al reportar, incluye:  
-- Descripción clara del incidente.  
-- Fecha, hora y canal/plataforma.  
-- Capturas de pantalla o enlaces (si aplica).  
-
----
-
-## 8. Propuestas de Mejora  
-Cualquier sugerencia de cambio o adición al Código de Conducta se gestionará mediante:  
-1. **Pull Request** al repositorio `ETH-Ecuador/code-of-conduct`.  
-2. **Discusión** en el canal **#code-of-conduct** del mismo repositorio en GitHub.  
+- Violencia física o amenazas (o su incitación)
+- Lenguaje o imágenes sexualizadas o acoso sexual
+- Trolling, acoso, bullying o violencia verbal (en público o privado)
+- Suplantación de identidad o falsas afiliaciones
+- Publicar información privada sin consentimiento
+- Spam, estafas, phishing o ingeniería social
+- Promoción de inversiones, tokens o activos especulativos
+- Ignorar advertencias de moderación o generar disrupción constante
+- Cualquier conducta inapropiada en un entorno profesional o educativo
 
 ---
 
-## 9. Moderación y Aplicación  
-- **Equipo de Moderación:** Grupo rotativo de miembros capacitados.  
-- **Proceso:**  
-  1. **Revisión inicial** de reportes (≤ 72 h).  
-  2. **Advertencia amistosa** o mediación.  
-  3. **Suspensión temporal** (reincidencia leve) o **expulsión permanente** (falta grave).  
-- **Apelaciones:** Enviar solicitud por email a conduct@ethecuador.org; será revisada por dos moderadores adicionales.
+## 📣 Reportar Incidentes
+
+Fomentamos la autorregulación y el diálogo abierto. Sin embargo, si observas o experimentas una violación del Código de Conducta, puedes:
+
+- Reportar anónimamente a través del [formulario anónimo](https://forms.ethecuador.org/anónimo-coc) (off-chain)
+- Contactar directamente a un moderador o steward
+
+**Por favor, incluye el mayor detalle posible** (nombres de usuario, fechas, capturas, enlaces, etc.) para ayudar a una resolución justa.
 
 ---
 
-## 10. Revisión Continua  
-Este documento se revisará cada 12 meses. Para participar en la siguiente ronda de feedback, abre una issue en `ETH-Ecuador/code-of-conduct` o utiliza el formulario anónimo.
+## 🛠️ Moderación
+
+La moderación de ETH Ecuador busca ser:
+
+- Transparente
+- Proporcional
+- Respetuosa con todas las partes
+- Documentada y, cuando sea posible, revisada por la comunidad
+
+Las acciones posibles incluyen:
+
+- Advertencias privadas
+- Silenciamiento temporal o suspensiones
+- Baneos temporales o permanentes
+- Comunicados públicos (solo en casos graves y con contexto)
+
+Cualquier medida puede ser revisada mediante Pull Request o discusión comunitaria cuando corresponda.
 
 ---
 
-*Gracias por contribuir a una comunidad ETH Ecuador segura, abierta y colaborativa.*  
+## 🌐 Contribuciones y Mejoras
+
+Todas las sugerencias para mejorar este Código de Conducta deben proponerse mediante un **Pull Request** en este repositorio y discutirse en el canal `code-of-conduct` del repositorio de ETH Ecuador.
+
+Revisamos este código anualmente o cuando sea necesario.
+
+---
+
+## 🧾 Licencia
+
+Este documento se publica bajo la [Licencia MIT](./LICENSE) o [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), según la configuración del repositorio.
+
+---
+
+Última actualización: 12 de mayo de 2025
