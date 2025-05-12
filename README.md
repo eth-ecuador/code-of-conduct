@@ -20,7 +20,3 @@ TO DO
 
 ## 📜 Licencia
 Este repositorio se publica bajo la licencia MIT.
-
----
-
-🔁 Última revisión: Mayo 2025 | Revisión siguiente: Mayo 2026
