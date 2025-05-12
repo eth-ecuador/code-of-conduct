@@ -52,7 +52,7 @@ All proposals will be reviewed transparently and collectively.
 code-of-conduct/
 ├── CODE_OF_CONDUCT.md        # English version
 ├── CODE_OF_CONDUCT.es.md     # Spanish version
-├── LICENSE                   # License file (MIT or CC-BY-4.0)
+├── LICENSE                   # License file (MIT)
 └── README.md                 # Main repository overview and contribution guide
 ```
 
@@ -62,12 +62,6 @@ code-of-conduct/
 
 - This document is reviewed and updated **annually**, or when required by the community.
 - All updates are proposed through Pull Requests and discussed publicly.
-
----
-
-## 🧾 License
-
-This Code of Conduct is released under the [Creative Commons CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), unless otherwise specified.
 
 ---
 
